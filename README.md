@@ -1,1 +1,1 @@
-# hello world opet nešto pullat
+# hello world
