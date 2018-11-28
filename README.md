@@ -1,2 +1,2 @@
 # hello world opet nešto pullat neću
-# ddd
+# ddd konflikt
